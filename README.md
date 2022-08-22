@@ -4,8 +4,8 @@
 
 ## Links
 
--
--
+- https://github.com/bburton5/brookeBurton-portfolio
+- https://bburton5.github.io/brookeBurton-portfolio/
 
 ## Usage
 
