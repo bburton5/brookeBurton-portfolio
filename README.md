@@ -10,7 +10,7 @@
 ## Usage
 
 This will be used to showcase all my skills, which i will update as i continue to work on projects.
-![screenshot of my portfolio] (./images.sreenshot.png)
+![screenshot of my portfolio] (./images/screenshot.png)
 
 ## Credits
 
