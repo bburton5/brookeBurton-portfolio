@@ -79,7 +79,11 @@ body {
 .card-text {
   display: flex;
   justify-content: space-around;
-  background-color: rgba(248, 194, 203, 0.107);
+  /* background-color: rgba(248, 194, 203, 0.107); */
+}
+
+ul {
+  /* background-color: rgba(248, 194, 203, 0.107); */
 }
 
 .projects-container {
@@ -103,7 +107,7 @@ body {
   border-width: 10px;
   border-color: rgb(237, 82, 136);
   padding: 50px;
-  background-color: rgba(248, 194, 203, 0.107);
+  background-color: white;
 }
 
 .carousel-header {
